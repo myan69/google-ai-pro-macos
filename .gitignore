@@ -1,0 +1,19 @@
+# User-supplied upstream files and all local data
+vendor/*
+!vendor/README.md
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+accounts*
+ultra0-report/
+reports/
+*.log
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.apk
+*.dex
