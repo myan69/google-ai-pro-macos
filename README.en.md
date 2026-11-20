@@ -6,6 +6,10 @@ A local adapter and guide for using an existing Google One billing-offer script 
 
 **[This X post by @zhuxufng154415](https://x.com/zhuxufng154415/status/2123040170132013071) is both the reference for this project and the distribution source of the original files.** The upstream script and embedded module are not included here.
 
+## Delegate to an AI agent
+
+Give [AI_TASK.md](AI_TASK.md) to an agent with access to your Mac's files and terminal. It includes Japanese and English copy-and-paste requests and instructions for setup and offer retrieval. The default task stops after listing offers; opening checkout requires an explicit request. Final purchase confirmation remains with you.
+
 ## Verification scope
 
 | Item | Status |
